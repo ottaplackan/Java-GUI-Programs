@@ -121,15 +121,3 @@ public class CalculatorDemo extends Frame implements ActionListener, TextListene
         CalculatorDemo cDemo = new CalculatorDemo();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
